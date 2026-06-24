@@ -1,0 +1,8 @@
+com\yahir\inventory\repository\ProductRepository.class
+com\yahir\inventory\controller\ProductController.class
+com\yahir\inventory\exception\ResourceNotFoundException.class
+com\yahir\inventory\model\Product.class
+com\yahir\inventory\dto\ProductDTO.class
+com\yahir\inventory\exception\GlobalExceptionHandler.class
+com\yahir\inventory\InventoryApiApplication.class
+com\yahir\inventory\service\ProductService.class
