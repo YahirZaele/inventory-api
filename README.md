@@ -1,25 +1,25 @@
-# 📦 Inventory API — REST API con Java 8 + Spring Boot
+# 📦 Inventory API — REST API con Java 17 + Spring Boot
 
-API REST para gestión de inventario desarrollada con Java 8, Spring Boot y MySQL.
+API REST para gestión de inventario desarrollada con Java 17, Spring Boot y MySQL.
 
 ## 🛠️ Stack Tecnológico
 
 | Tecnología | Versión | Uso |
 |---|---|---|
-| Java | 8 (1.8) | Lenguaje principal |
-| Spring Boot | 2.7.18 | Framework backend |
+| Java | 17 | Lenguaje principal |
+| Spring Boot | 3.2.5 | Framework backend |
 | Spring Data JPA | - | Persistencia de datos |
 | MySQL | 8.x | Base de datos |
 | Maven | 3.x | Build y dependencias |
 | JUnit 5 | - | Pruebas unitarias |
 | Mockito | - | Mocks para testing |
-| OpenAPI / Swagger | 1.7.0 | Documentación de API |
+| OpenAPI / Swagger | 2.3.0 | Documentación de API |
 | GitHub Actions | - | Pipeline CI/CD |
 
 ## 🚀 Cómo correr el proyecto
 
 ### Requisitos previos
-- Java 8 instalado
+- Java 17 instalado
 - MySQL 8 corriendo en localhost:3306
 - Maven instalado (o usar el wrapper)
 
@@ -49,7 +49,7 @@ mvn spring-boot:run
 ### 5. Ver documentación Swagger
 Abre en el navegador:
 ```
-http://localhost:8080/swagger-ui.html
+http://localhost:8080/swagger-ui/index.html
 ```
 
 ## 🧪 Correr pruebas unitarias
