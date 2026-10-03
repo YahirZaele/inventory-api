@@ -84,4 +84,4 @@ src/
 
 ## 👨‍💻 Autor
 **Yahir Zaele Medina Rioja** — Java Backend Developer Junior  
-www.linkedin.com/in/yahir-zael
+www.linkedin.com/in/yahir-zaele
