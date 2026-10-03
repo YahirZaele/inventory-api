@@ -82,6 +82,13 @@ src/
 └── test/               # Pruebas unitarias con JUnit 5 + Mockito
 ```
 
+## ⚙️ Configuración
+
+Antes de ejecutar la aplicación, define estas variables de entorno:
+
+- `DB_PASSWORD` (obligatoria): contraseña de MySQL
+- `DB_URL` y `DB_USERNAME` (opcionales): por defecto usan MySQL local y `root`
+
 ## 👨‍💻 Autor
 **Yahir Zaele Medina Rioja** — Java Backend Developer Junior  
 www.linkedin.com/in/yahir-zaele
